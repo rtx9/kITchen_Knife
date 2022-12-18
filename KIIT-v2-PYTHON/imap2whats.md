@@ -1,11 +1,11 @@
-# First, you will need to register as a WhatsApp Business API client to use the API. You can do this by visiting the WhatsApp Business API website and filling out the registration form.
-# Change file extension from .md to py and remove the instruction lines to use code
+##### First, you will need to register as a WhatsApp Business API client to use the API. You can do this by visiting the WhatsApp Business API website and filling out the registration form.
+##### Change file extension from .md to py and remove the instruction lines to use code
 
 Once you have registered and been approved as a client, you will need to obtain your API credentials, including your API key and API secret.
 
 Next, install the whatsapp and imaplib Python libraries using pip:
 
-      '''pip install whatsapp imaplib'''
+      pip install whatsapp imaplib
 
 Import the necessary libraries and classes in your Python script:
       
