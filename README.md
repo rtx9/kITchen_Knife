@@ -1,7 +1,7 @@
 # kITchen_Knife
 
 
-## Scripts and Snippets to contribute time saving your routine actions. 
+## Base coded community scripts that dev can contribute to 
 ### For example: changing the IP address of your ethernet port.
 ### Tags: <br>
 ##### STS  -SHORT TERM SCHEDULE    (long Term Project) <br>
