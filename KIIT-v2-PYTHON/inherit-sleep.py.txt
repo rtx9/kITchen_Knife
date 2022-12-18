@@ -1,0 +1,16 @@
+import time
+
+def sleep_for_time(t):
+  # Pause execution for t seconds
+  time.sleep(t)
+
+# Prompt the user for the amount of time to sleep
+sleep_time = input("Enter the number of seconds to sleep: ")
+
+# Convert the input string to a float
+sleep_time = float(sleep_time)
+
+# Call the sleep_for_time function
+sleep_for_time(sleep_time)
+
+print("Done sleeping.")
