@@ -1,4 +1,4 @@
-#UN - UNTESTED - L15-12-22 - V1 - KIIT-V2-PYTHON
+#UN - UNTESTED - L15-12-22 - V1 - KIIT-V2-PYTHON - me@ateeq.cloud
 #However, there are a few potential issues with the code that you should be aware of:
 #The socket.gethostbyname() method is used to get the current IP address, but it may not always return the correct IP address, depending on how the network is configured. For example, if the network uses multiple IP addresses, the socket.gethostbyname() method may return only one of the IP addresses, rather than all of them.
 #The input() function is used to prompt the user for the new IP address, subnet, and gateway, but this may not always be the best way to input these values. For example, if the user enters an invalid IP address, subnet, or gateway, the code will not be able to validate the input and may produce unexpected results.
